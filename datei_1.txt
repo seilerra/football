@@ -1,1 +1,3 @@
 Datei 1
+Neuer Text stash Beispiel
+Ändern für das stash Beispiel
